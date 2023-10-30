@@ -2,5 +2,8 @@ body {
     background-color: mediumturquoise;
 }
 ul{
-    padding: 16px;
+   display: flex;
+   justify-content: space-between;
+   list-style-type: none;
+   padding: 16px;
 }
