@@ -6,10 +6,6 @@ body {
 ;
 }
 ul{
-   
- padding: 16px;
-}
-img{
+   list-style-type: none;
 
-  
 }
