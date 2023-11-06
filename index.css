@@ -5,6 +5,8 @@ body {
 ;
 }
 ul{
-   list-style-type: none;
+   display: flex;
+   justify-content: space-between;
+    list-style-type: none;
 
 }
