@@ -20,7 +20,7 @@ a{
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 5px solid blueviolet;
+    border: 5px solid rgb(122, 73, 168);
   }
   center{
     text-align: center;
