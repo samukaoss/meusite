@@ -39,7 +39,7 @@ footer{
     display: flex;
     justify-content: center;
 }
-footer p{
+footer a{
     margin: 20px;
     text-align: center;
 }
